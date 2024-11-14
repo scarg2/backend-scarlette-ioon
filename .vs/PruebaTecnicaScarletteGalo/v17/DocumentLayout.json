@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\dtos\\updatespacestaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\dtos\\updatespacestaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\services\\spaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\services\\spaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\services\\stateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\services\\stateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\controllers\\spacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\controllers\\spacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\dtos\\createreservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\dtos\\createreservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\dtos\\authenticaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\dtos\\authenticaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\models\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\models\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|c:\\users\\scarlette galo\\source\\repos\\pruebatecnicascarlettegalo\\pruebatecnicascarlettegalo\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBE86A-FF31-4B2D-90B5-C15536DE24C9}|PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo.csproj|solutionrelative:pruebatecnicascarlettegalo\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateSpaceStateRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\DTos\\UpdateSpaceStateRequestDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\DTos\\UpdateSpaceStateRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\DTos\\UpdateSpaceStateRequestDTO.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\DTos\\UpdateSpaceStateRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:10:48.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateReservationRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\DTos\\CreateReservationRequestDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\DTos\\CreateReservationRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\DTos\\CreateReservationRequestDTO.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\DTos\\CreateReservationRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:05:05.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Controllers\\ReservationController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:03:39.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:33:00.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateService.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Services\\StateService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Services\\StateService.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Services\\StateService.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Services\\StateService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:27:48.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpaceService.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Services\\SpaceService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Services\\SpaceService.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Services\\SpaceService.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Services\\SpaceService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:02:08.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Models\\User.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:56:56.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Services\\UserService.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Services\\UserService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:44:45.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T00:44:40.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpaceController.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Controllers\\SpaceController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Controllers\\SpaceController.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Controllers\\SpaceController.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Controllers\\SpaceController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:11:23.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Program.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Program.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:07:46.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\DTos\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\DTos\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\DTos\\RegisterRequest.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\DTos\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:39:58.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticateRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\DTos\\AuthenticateRequestDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\DTos\\AuthenticateRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\DTos\\AuthenticateRequestDTO.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\DTos\\AuthenticateRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:45:53.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Services\\ReservationService.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Services\\ReservationService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAUwEcAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:12:12.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:03:56.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Models\\State.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Models\\State.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Models\\State.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Models\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:59:45.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Models\\Reservation.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:59:20.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Space.cs",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Models\\Space.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\Models\\Space.cs",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\Models\\Space.cs",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\Models\\Space.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:58:29.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PruebaTecnicaScarletteGalo\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Scarlette Galo\\source\\repos\\PruebaTecnicaScarletteGalo\\PruebaTecnicaScarletteGalo\\appsettings.Development.json",
+              "RelativeToolTip": "PruebaTecnicaScarletteGalo\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T00:44:52.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
